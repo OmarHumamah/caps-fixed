@@ -1,0 +1,24 @@
+{
+  "name": "caps-fixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarHumamah/caps-fixed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarHumamah/caps-fixed/issues"
+  },
+  "homepage": "https://github.com/OmarHumamah/caps-fixed#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.3.1"
+  }
+}
